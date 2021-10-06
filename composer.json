@@ -1,0 +1,15 @@
+{
+    "name": "ncut/lara_auto",
+    "authors": [
+        {
+            "name": "Chen Pei An",
+            "email": "3a832009@gm.student.ncut.edu.tw"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/Demo"
+        }
+    }
+}
